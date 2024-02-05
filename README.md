@@ -1,5 +1,5 @@
-### Hello! I'm Felipe Guarezi 
-#### Olá! Eu sou o Felipe Guarezi
+### Hello! I'm Felipe Guarezi, Programmer, Teacher and Researcher
+#### Olá! Eu sou Felipe Guarezi, Programador, Professor e Pesquisador
 
 <div align="center">
   <a href="https://github.com/mrlester-code">
